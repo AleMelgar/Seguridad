@@ -1,0 +1,6 @@
+¿Cuál es el punto más débil de PGP?
+
+El punto más débil de PGP en términos de seguridad es la gestión de claves. Esto incluye la protección inadecuada de claves privadas, la verificación insuficiente de identidades, vulnerabilidades en implementaciones antiguas, y posibles ataques de ingeniería social. 
+
+
+
